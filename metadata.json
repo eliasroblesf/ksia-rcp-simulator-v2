@@ -1,0 +1,8 @@
+{
+  "name": "ksia-rcp-simulator-v2",
+  "description": "King Salman International Airport (KSIA) Advanced CPR & AED Life Support Simulator with realistic AED defibrillator display, 2-minute CPR pumping countdown, early AED penalty system, and debrief certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
